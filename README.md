@@ -7,9 +7,5 @@
 [![iceRabbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceRabbit1999)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
+# Poor Snake
+<img src="https://github.com/IceRabbit1999/IceRabbit1999/blob/output/github-snake.svg">
