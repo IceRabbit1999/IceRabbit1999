@@ -5,7 +5,3 @@
 - More about me: [keep farmed](http://icerabbit.cc)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IceRabbit1999)](https://github.com/anuraghazra/github-readme-stats)
-
----
-# Poor Snake
-<img src="https://github.com/IceRabbit1999/IceRabbit1999/blob/output/github-snake.svg">
