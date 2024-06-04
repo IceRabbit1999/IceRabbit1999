@@ -1,0 +1,8 @@
+name: Steam Stats
+on:
+  workflow_dispatch:
+jobs:
+  steam-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Nicconike/Steam-Stats@master
