@@ -19,4 +19,4 @@ SQL              12 mins         ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 # IceRabbit Games Network
-![img](https://steam-stat.vercel.app/api?profileName=IceRabbit)
+![test](https://steam-stat.vercel.app/api?profileName=IceRabbit.png)
