@@ -2,8 +2,8 @@
 - Still nothing to show for since 1999
 - Dota2 is the best, praise the IceFrog
 - Biggest dream: be part of the making of a game that will influence a generation
-- More about me: [keep farmed](http://icerabbit.cc)
 
+# Weekly break down
 <!--START_SECTION:waka-->
 
 ```txt
@@ -17,3 +17,6 @@ SQL              12 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+# IceRabbit Games Network
+![img](https://steam-stat.vercel.app/api?profileName=IceRabbit)
