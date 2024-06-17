@@ -1,7 +1,7 @@
 name: Update wakatime
 on:
   schedule:
-    - cron: "0 16 * * 1"
+    - cron: "0 16 * * 0"
   # Manual triggers with workflow_dispatch
   workflow_dispatch:
 jobs:
