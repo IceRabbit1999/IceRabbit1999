@@ -7,10 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2024 - To: 30 June 2024
+From: 30 June 2024 - To: 07 July 2024
 
-Rust   15 hrs 35 mins  ████████████████████████▓   98.22 %
-TOML   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Rust                 5 hrs 31 mins   ███████████████████████▓░   94.18 %
+Markdown             18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+TOML                 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+SQL                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+ThinClientFileType   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
