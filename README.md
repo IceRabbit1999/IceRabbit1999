@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2024 - To: 22 September 2024
+From: 22 September 2024 - To: 29 September 2024
 
-Rust              7 hrs 22 mins   ███████████████████████▒░   93.10 %
-TOML              28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Protocol Buffer   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Rust             16 hrs 33 mins  ████████████████████████░   95.85 %
+TOML             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Markdown         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+YAML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
