@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2024 - To: 10 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
-Rust              16 hrs 37 mins  ███████████████████████▒░   93.29 %
-TOML              43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Text              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-protobuf          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Protocol Buffer   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Rust              14 hrs 6 mins   ███████████████████████▒░   93.55 %
+Text              36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+TOML              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Protocol Buffer   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Markdown          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
